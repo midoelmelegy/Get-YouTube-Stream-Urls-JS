@@ -351,7 +351,7 @@ async function decipherSignature(encSignatures) {
   return true;
 }
 
-const videoID = "tZLDEUFtnX0";
+const videoID = "3Mx0Rs0ZQgo";
 
 (async () => {
   let ok = false;
